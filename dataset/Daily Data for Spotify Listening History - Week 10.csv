@@ -1,0 +1,41 @@
+Listening_Date,Time,Track_Name,Genre,Valence,Energy,Mood_Now,Activity,Day_Rating
+2026-02-02,10:00,FOUR,Pop,0.85,0.82,7,Exercising,6
+2026-02-02,10:02,THIS IS FOR,Pop,0.78,0.8,7,Exercising,6
+2026-02-02,10:04,OPTIONS,Pop,0.7,0.75,7,Exercising,6
+2026-02-02,10:07,MARS,Pop,0.65,0.6,7,Exercising,6
+2026-02-02,10:10,RIGHT HAND GIRL,Pop,0.8,0.85,7,Exercising,6
+2026-02-02,10:13,PEACH GELATO,Pop,0.88,0.55,7,Exercising,6
+2026-02-02,10:16,HI HELLO,Pop,0.92,0.72,7,Exercising,6
+2026-02-02,10:18,BATTITUDE,Pop,0.6,0.92,7,Exercising,6
+2026-02-02,10:21,DAT AAH DAT OOH,Pop,0.85,0.88,7,Exercising,6
+2026-02-02,10:24,LET LOVE GO,Pop,0.55,0.65,7,Exercising,6
+2026-02-02,10:28,G.O.A.T,Pop,0.75,0.8,7,Exercising,6
+2026-02-02,10:32,TALK,Pop,0.68,0.82,7,Exercising,6
+2026-02-02,10:35,SEESAW,Pop,0.5,0.52,7,Exercising,6
+2026-02-02,10:37,HEARTBREAK AVENUE,Pop,0.4,0.45,7,Exercising,6
+2026-02-02,10:40,THIS IS FOR (Extended),Pop,0.78,0.8,7,Exercising,6
+2026-02-02,10:43,TAKEDOWN,Pop,0.55,0.95,7,Exercising,6
+2026-02-03,9:30,Matilda,Pop,0.38,0.15,4,Cooking,5
+2026-02-03,9:34,Touching Yourself,Indie ,0.45,0.48,4,Cooking,5
+2026-02-03,9:37,Colossal Loss,Rock,0.48,0.72,4,Cooking,5
+2026-02-03,9:40,Colossal Loss,Rock,0.48,0.72,4,Cooking,5
+2026-02-03,9:44,Colossal Loss,Rock,0.48,0.72,4,Cooking,5
+2026-02-04,14:13,Buzz,Pop,0.72,0.65,6,Commuting,6
+2026-02-04,14:19,Too Much Of A Good Thing,Pop,0.85,0.78,6,Commuting,6
+2026-02-04,14:23,Colossal Loss,Indie,0.55,0.5,6,Commuting,6
+2026-02-04,14:27,Focus,Pop,0.68,0.62,6,Commuting,6
+2026-02-04,14:31,Did You Like Her In The Morning?,Indie,0.45,0.4,6,Commuting,6
+2026-02-04,14:35,Take Care,Pop,0.5,0.45,6,Commuting,6
+2026-02-04,14:40,Magnets,Pop,0.75,0.7,6,Commuting,6
+2026-02-04,14:46,Tsunami,Pop,0.6,0.58,6,Commuting,6
+2026-02-04,14:50,Blue Moon,Indie,0.4,0.35,6,Commuting,6
+2026-02-04,14:53,Strong Girl,Pop,0.52,0.48,6,Commuting,6
+2026-02-04,14:57,Paths,Indie,0.48,0.42,6,Commuting,6
+2026-02-04,15:01,Heirloom Pain,Indie,0.35,0.3,6,Commuting,6
+2026-02-04,15:04,Nothing Can,Pop,0.58,0.55,6,Commuting,6
+2026-02-05,4:02,Start Over,Rock,0.65,0.79,4,Before_Sleep,4
+2026-02-05,4:05,Start Over,Rock,0.65,0.79,4,Before_Sleep,4
+2026-02-06,9:23,Start Over,Rock,0.65,0.79,5,Eating,5
+2026-02-07,13:20,Start Over,Rock,0.65,0.79,5,Resting,6
+2026-02-07,13:24,Start Over,Rock,0.65,0.79,5,Resting,6
+2026-02-07,13:30,Start Over,Rock,0.65,0.79,5,Resting,6

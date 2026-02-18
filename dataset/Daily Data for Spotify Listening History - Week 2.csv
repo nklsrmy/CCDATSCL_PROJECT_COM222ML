@@ -1,0 +1,131 @@
+Listening_Date,Time,Track_Name,Genre,Valence,Energy,Mood_Now,Activity,Day_Rating
+2025-12-08,5:00,Start Over,Rock,0.65,0.79,5,Commuting,5
+2025-12-08,5:24,Start Over,Rock,0.65,0.79,5,Commuting,5
+2025-12-08,7:31,,Rock,0.65,0.79,5,Meeting,5
+2025-12-08,7:35,Jawbreaker,Rock,0.52,0.75,5,Meeting,5
+2025-12-08,7:38,I'll Find You,Rock,0.52,0.75,5,Meeting,5
+2025-12-08,7:41,istillfeelthesame,Rock,0.52,0.75,5,Meeting,5
+2025-12-08,7:45,No. 1 Obsession,Rock,0.52,0.75,5,Meeting,5
+2025-12-08,7:46,eclipse,Rock,0.4,0.6,5,Meeting,5
+2025-12-08,7:49,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Meeting,5
+2025-12-08,7:52,Telephone Busy,Rock,0.52,0.75,5,Commuting,5
+2025-12-08,8:14,Sweetdreams,Rock,0.45,0.55,5,Eating,5
+2025-12-09,11:19,Start Over,Rock,0.65,0.79,5,Studying,5
+2025-12-09,11:21,Jawbreaker,Rock,0.52,0.75,5,Studying,5
+2025-12-09,11:25,Everyone’s A Star!,Rock,0.52,0.75,5,Studying,5
+2025-12-09,11:33,Caramel,Rock,0.58,0.62,5,Studying,5
+2025-12-09,12:45,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,6,Working,5
+2025-12-09,12:58,The Rocks,Rock,0.52,0.75,6,Working,5
+2025-12-09,13:27,Ghost,Rock,0.52,0.75,6,Working,5
+2025-12-09,13:30,Start Over,Rock,0.65,0.79,6,Working,5
+2025-12-09,13:34,Start Over,Rock,0.65,0.79,6,Working,5
+2025-12-09,13:37,Start Over,Rock,0.65,0.79,6,Working,5
+2025-12-09,13:51,Start Over,Rock,0.65,0.79,6,Working,5
+2025-12-09,13:57,Start Over,Rock,0.65,0.79,6,Working,5
+2025-12-09,16:16,Start Over,Rock,0.65,0.79,6,Commuting,5
+2025-12-09,16:19,Start Over,Rock,0.65,0.79,6,Commuting,5
+2025-12-09,16:22,Start Over,Rock,0.65,0.79,6,Commuting,5
+2025-12-09,16:39,remember when,Rock,0.32,0.4,6,Commuting,5
+2025-12-10,0:39,Start Over,Rock,0.65,0.79,4,Resting,5
+2025-12-10,0:40,Evolve,Rock,0.52,0.75,5,Resting,5
+2025-12-10,0:44,Start Over,Rock,0.65,0.79,4,Resting,5
+2025-12-10,0:48,Caramel,Rock,0.58,0.62,5,Resting,5
+2025-12-10,0:50,istillfeelthesame,Rock,0.52,0.75,5,Resting,5
+2025-12-10,1:07,Boyband,Rock,0.52,0.75,5,Resting,5
+2025-12-10,1:10,Start Over,Rock,0.65,0.79,5,Resting,5
+2025-12-10,1:42,Ghost,Rock,0.52,0.75,4,Resting,5
+2025-12-10,2:49,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Resting,5
+2025-12-10,2:53,Wishful Dreaming,Rock,0.52,0.75,5,Resting,5
+2025-12-10,2:57,Sweetdreams,Rock,0.45,0.55,5,Resting,5
+2025-12-10,3:02,Everyone’s A Star!,Rock,0.52,0.75,5,Resting,5
+2025-12-10,3:05,I'll Find You,Rock,0.52,0.75,5,Resting,5
+2025-12-10,3:09,The Rocks,Rock,0.52,0.75,5,Resting,5
+2025-12-10,3:24,baby blue,Rock,0.6,0.58,5,Resting,5
+2025-12-10,3:29,Start Over,Rock,0.65,0.79,4,Resting,5
+2025-12-10,3:33,Ghost,Rock,0.52,0.75,4,Resting,5
+2025-12-10,3:35,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Resting,5
+2025-12-10,3:38,eclipse,Rock,0.4,0.6,5,Resting,5
+2025-12-10,4:03,still be friends,Pop,0.5,0.55,4,Before_Sleep,5
+2025-12-10,12:18,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Cooking,5
+2025-12-10,12:32,Jawbreaker,Rock,0.52,0.75,4,Eating,5
+2025-12-10,12:48,Jawbreaker,Rock,0.52,0.75,4,Eating,5
+2025-12-10,23:22,Telephone Busy,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-11,0:20,Everyone’s A Star!,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-11,4:15,Everyone’s A Star!,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-11,4:21,Ghost,Rock,0.52,0.75,4,Before_Sleep,5
+2025-12-11,4:25,Start Over,Rock,0.65,0.79,4,Before_Sleep,5
+2025-12-11,4:34,Chest,Rock,0.44,0.68,6,Before_Sleep,5
+2025-12-11,7:29,Start Over,Rock,0.65,0.79,4,Commuting,5
+2025-12-11,7:33,Ghost,Rock,0.52,0.75,4,Commuting,5
+2025-12-11,7:38,Ghost,Rock,0.52,0.75,4,Commuting,5
+2025-12-11,7:39,Take What You Want (feat. 5 Seconds of Summer),Rock,0.5,0.85,5,Commuting,5
+2025-12-11,7:42,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Working,5
+2025-12-11,7:45,Boyband,Rock,0.52,0.75,5,Working,5
+2025-12-11,7:48,Sick of Myself,Rock,0.52,0.75,5,Working,5
+2025-12-11,7:53,Close Enough To Feel You,Pop,0.48,0.52,5,Working,5
+2025-12-11,11:35,NOBODY'S GIRL,Pop,0.45,0.6,5,Working,5
+2025-12-11,12:43,Everyone’s A Star!,Rock,0.52,0.75,5,Working,5
+2025-12-11,12:47,istillfeelthesame,Rock,0.52,0.75,5,Working,5
+2025-12-12,4:31,Start Over,Rock,0.65,0.79,6,Waiting,5
+2025-12-12,4:32,Only Ever,Pop,0.45,0.4,6,Waiting,5
+2025-12-12,4:34,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,6,Waiting,5
+2025-12-12,4:37,I'll Find You,Rock,0.52,0.75,6,Waiting,5
+2025-12-12,4:41,Ghost,Rock,0.52,0.75,6,Waiting,5
+2025-12-12,5:02,Start Over,Rock,0.65,0.79,6,Waiting,5
+2025-12-12,6:37,Nobody’s Son,Pop,0.4,0.45,6,Studying,5
+2025-12-12,7:38,Everyone’s A Star!,Rock,0.52,0.75,6,Studying,5
+2025-12-12,7:42,Telephone Busy,Rock,0.52,0.75,6,Studying,5
+2025-12-12,7:45,Boyband,Rock,0.52,0.75,6,Studying,5
+2025-12-12,7:52,Close My Eyes,Pop,0.48,0.52,6,Studying,5
+2025-12-12,8:02,NOT OK,Rock,0.48,0.82,6,Studying,5
+2025-12-12,8:05,Sick of Myself,Rock,0.52,0.75,6,Studying,5
+2025-12-12,8:07,Jawbreaker,Rock,0.52,0.75,6,Studying,5
+2025-12-12,8:11,I Wanted To Stay,Rock,0.45,0.55,5,Studying,5
+2025-12-12,8:16,Diamonds,Pop,0.48,0.52,5,Studying,5
+2025-12-12,8:20,Showbiz,Rock,0.5,0.6,5,Commuting,5
+2025-12-12,8:24,still be friends,Pop,0.5,0.55,5,Commuting,5
+2025-12-12,8:25,NOBODY'S GIRL,Pop,0.45,0.6,6,Commuting,5
+2025-12-12,8:38,FOUR,Pop,0.65,0.7,6,Commuting,5
+2025-12-12,8:40,"G.O.A.T. (MINA, DAHYUN, CHAEYOUNG)",Pop,0.65,0.7,6,Commuting,5
+2025-12-12,8:48,SEESAW,Pop,0.65,0.7,6,Commuting,5
+2025-12-12,8:50,NOT ME,Pop,0.6,0.65,7,Commuting,6
+2025-12-12,8:58,Siesta,Pop,0.7,0.75,7,Commuting,6
+2025-12-12,9:13,Siesta,Pop,0.7,0.75,7,Commuting,6
+2025-12-12,10:29,SEESAW,Pop,0.65,0.7,7,Commuting,6
+2025-12-12,10:33,"LET LOVE GO (JEONGYEON, MOMO, SANA, TZUYU)",Pop,0.65,0.7,7,Commuting,6
+2025-12-12,10:35,THIS IS FOR,Pop,0.65,0.7,7,Commuting,6
+2025-12-12,10:38,ME+YOU,Pop,0.65,0.7,7,Commuting,6
+2025-12-12,10:40,"TALK (NAYEON, JIHYO)",Pop,0.65,0.7,7,Commuting,6
+2025-12-12,11:14,HI HELLO,Pop,0.65,0.7,7,Eating,6
+2025-12-12,11:17,Sweetest Obsession,Pop,0.65,0.7,7,Eating,6
+2025-12-12,11:19,RIGHT HAND GIRL,Pop,0.65,0.7,7,Resting,6
+2025-12-12,11:21,Blind in Love,Pop,0.65,0.7,7,Resting,6
+2025-12-12,11:23,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:28,No. 1 Obsession,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:39,Evolve,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:42,Jawbreaker,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:44,istillfeelthesame,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:48,The Rocks,Rock,0.52,0.75,7,Resting,6
+2025-12-12,11:51,Wishful Dreaming,Rock,0.52,0.75,7,Resting,6
+2025-12-12,12:07,Without Me,Pop,0.55,0.7,7,Resting,6
+2025-12-12,16:08,Ghost,Rock,0.52,0.75,7,Commuting,6
+2025-12-12,16:11,Telephone Busy,Rock,0.52,0.75,7,Commuting,6
+2025-12-12,16:15,NOT OK,Rock,0.48,0.82,7,Commuting,6
+2025-12-12,16:19,Ghost,Rock,0.52,0.75,7,Commuting,6
+2025-12-12,16:24,Everyone’s A Star!,Rock,0.52,0.75,7,Commuting,6
+2025-12-12,16:34,Chest,Rock,0.44,0.68,7,Commuting,6
+2025-12-12,17:36,Chest,Rock,0.44,0.68,7,Commuting,6
+2025-12-13,9:55,Mean It,Pop,0.5,0.55,5,Studying,5
+2025-12-13,10:00,Malibu Nights,Indie,0.45,0.48,5,Studying,5
+2025-12-13,10:04,I Like Me Better,Pop,0.5,0.55,5,Studying,5
+2025-12-13,11:37,Mean It,Pop,0.5,0.55,5,Studying,5
+2025-12-13,11:43,Touching Yourself,Indie,0.45,0.48,6,Studying,5
+2025-12-13,11:45,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,12:19,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,12:22,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,12:33,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,12:36,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,12:39,Touching Yourself,Indie,0.45,0.48,6,Meeting,5
+2025-12-13,13:31,Silk Chiffon,Pop,0.5,0.55,5,Meeting,5
+2025-12-13,16:45,Start Over,Rock,0.65,0.79,6,Resting,5
+2025-12-14,3:54,Start Over,Rock,0.65,0.79,6,Resting,5

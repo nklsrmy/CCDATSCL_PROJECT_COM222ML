@@ -1,0 +1,87 @@
+Listening_Date,Time,Track_Name,Genre,Valence,Energy,Mood_Now,Activity,Day_Rating
+2025-12-22,1:20,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-22,1:21,Evolve,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-22,1:25,Chest,Rock,0.44,0.68,5,Before_Sleep,5
+2025-12-22,1:35,bittersweet,Pop,0.38,0.42,5,Before_Sleep,5
+2025-12-22,1:49,Chest,Rock,0.44,0.68,5,Before_Sleep,5
+2025-12-22,2:13,Chest,Rock,0.44,0.68,5,Before_Sleep,5
+2025-12-22,3:23,Start Over,Rock,0.65,0.79,5,Before_Sleep,5
+2025-12-22,3:27,Chest,Rock,0.44,0.68,5,Before_Sleep,5
+2025-12-22,3:32,Heart on Fire,Rock,0.58,0.85,5,Before_Sleep,5
+2025-12-22,4:12,Telephone Busy,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-22,12:24,Everyone’s A Star!,Rock,0.52,0.75,5,Eating,5
+2025-12-22,12:25,No. 1 Obsession,Rock,0.52,0.75,5,Eating,5
+2025-12-22,12:28,Chest,Rock,0.44,0.68,5,Eating,5
+2025-12-22,12:30,Blood Run Warm,Rock,0.55,0.82,5,Eating,5
+2025-12-22,12:34,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Eating,5
+2025-12-22,12:38,Ghost,Rock,0.52,0.75,5,Eating,5
+2025-12-22,12:41,I'll Find You,Rock,0.52,0.75,5,Eating,5
+2025-12-23,5:34,Chest,Rock,0.44,0.68,5,Waking_Up,5
+2025-12-23,5:35,nothing on u,R&B,0.55,0.45,5,Waking_Up,5
+2025-12-23,6:10,I'll Find You,Rock,0.52,0.75,5,Waking_Up,5
+2025-12-24,13:43,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Eating,5
+2025-12-24,13:45,Wishful Dreaming,Rock,0.52,0.75,5,Eating,5
+2025-12-24,13:48,Start Over,Rock,0.65,0.79,5,Eating,5
+2025-12-24,13:53,It Ain't Me (with Selena Gomez),Pop,0.58,0.69,5,Eating,5
+2025-12-24,13:53,Jawbreaker,Rock,0.52,0.75,5,Eating,5
+2025-12-24,13:53,Chest,Rock,0.44,0.68,5,Eating,5
+2025-12-24,15:18,someday i'll get it,Indie,0.25,0.15,5,Eating,5
+2025-12-25,9:14,Everyone’s A Star!,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:17,Dominga,Hip-Hop,0.58,0.65,5,Working,5
+2025-12-25,9:31,The Rocks,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:36,Evolve,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:41,Ghost,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:42,Catapult,Indie,0.45,0.48,4,Working,5
+2025-12-25,9:44,Sick of Myself,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:48,THE SHIVERS,Pop,0.5,0.55,4,Working,5
+2025-12-25,9:48,No. 1 Obsession,Rock,0.52,0.75,4,Working,5
+2025-12-25,9:52,Close Enough To Feel You,Rock,0.48,0.52,4,Working,5
+2025-12-25,9:55,hurt people,R&B,0.38,0.42,5,Working,5
+2025-12-25,9:55,Cigarette,Indie,0.5,0.55,5,Working,5
+2025-12-25,9:55,Take What You Want (feat. 5 Seconds of Summer),Rock,0.6,0.85,5,Working,5
+2025-12-25,9:55,Whatever You Like,Pop,0.5,0.55,5,Working,5
+2025-12-25,9:55,Marry You,Rock,0.52,0.75,5,Working,5
+2025-12-25,9:59,Saigon,Rock,0.48,0.52,5,Working,5
+2025-12-26,5:33,still be friends,Indie,0.55,0.48,5,Waking_Up,5
+2025-12-26,6:46,Everyone’s A Star!,Rock,0.52,0.75,5,Eating,5
+2025-12-26,6:54,NOT OK,Rock,0.48,0.82,5,Eating,5
+2025-12-26,7:22,Wishful Dreaming,Rock,0.52,0.75,5,Eating,5
+2025-12-27,9:01,Everyone’s A Star!,Rock,0.52,0.75,5,Studying,5
+2025-12-27,9:04,Mysterious Girl,Rock,0.48,0.7,4,Studying,5
+2025-12-27,9:09,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Studying,5
+2025-12-27,9:12,Boyband,Rock,0.52,0.75,4,Studying,5
+2025-12-27,9:17,Start Over,Rock,0.65,0.79,4,Studying,5
+2025-12-27,9:19,Jawbreaker,Rock,0.52,0.75,4,Studying,5
+2025-12-27,9:22,In The Dark,Pop,0.45,0.55,4,Studying,5
+2025-12-27,9:46,What U Want,Pop,0.5,0.6,4,Studying,5
+2025-12-27,9:48,Jawbreaker,Rock,0.52,0.75,4,Studying,5
+2025-12-27,9:52,Chest,Rock,0.44,0.68,4,Studying,5
+2025-12-27,9:56,I'll Find You,Rock,0.52,0.75,4,Studying,5
+2025-12-27,10:01,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Studying,5
+2025-12-27,12:38,Everyone’s A Star!,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,12:42,The Rocks,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,12:54,Savanna,Indie,0.42,0.5,6,Commuting,5
+2025-12-27,12:56,Jawbreaker,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:00,Telephone Busy,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:04,Wishful Dreaming,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:07,bleachers,Pop,0.55,0.65,6,Commuting,5
+2025-12-27,13:11,NOT OK,Rock,0.48,0.82,6,Commuting,5
+2025-12-27,13:15,Bug Bites,Indie,0.4,0.58,6,Commuting,5
+2025-12-27,13:19,Everyone’s A Star!,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:23,Start Over,Rock,0.65,0.79,6,Commuting,5
+2025-12-27,13:26,Talk About It,Indie,0.5,0.6,6,Commuting,5
+2025-12-27,13:29,Sick of Myself,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:33,Evolve,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,13:37,The Rocks,Rock,0.52,0.75,6,Commuting,5
+2025-12-27,14:25,At the Beginning,Pop,0.45,0.4,6,Studying,5
+2025-12-27,14:29,It's the Way You Make Me Feel,Pop,0.88,0.85,6,Studying,5
+2025-12-27,14:33,Last Thing on My Mind,Pop,0.92,0.88,6,Studying,5
+2025-12-27,14:38,One for Sorrow,Pop,0.75,0.82,6,Studying,5
+2025-12-27,14:41,It's the Way You Make Me Feel,Pop,0.88,0.85,6,Studying,5
+2025-12-27,14:44,Don't Say You Love Me,Pop,0.68,0.62,6,Studying,5
+2025-12-27,14:47,Touching Yourself,Indie ,0.45,0.48,6,Studying,5
+2025-12-27,14:51,Baby Blue,Indie ,0.48,0.52,6,Studying,5
+2025-12-27,15:00,Bakit Ngayon Ka Lang,Indie,0.55,0.45,6,Studying,5
+2025-12-27,15:05,Iba (ft. Moira),Indie,0.4,0.35,6,Studying,5
+2025-12-28,12:01,Fortnight,Pop,0.35,0.4,6,Studying,5
+2025-12-28,12:05,Madwoman,Indie,0.42,0.38,6,Studying,5

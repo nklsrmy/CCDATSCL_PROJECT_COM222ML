@@ -1,0 +1,63 @@
+Listening_Date,Time,Track_Name,Genre,Valence,Energy,Mood_Now,Activity,Day_Rating
+2025-12-15,0:58,Touching Yourself,Indie ,0.45,0.48,5,Before_Sleep,5
+2025-12-15,1:02,Everybody Wants To Rule The World,Pop,0.91,0.8,5,Before_Sleep,5
+2025-12-15,1:06,Start Over,Rock,0.65,0.79,5,Before_Sleep,5
+2025-12-15,3:14,I'll Find You,Rock,0.35,0.4,5,Before_Sleep,5
+2025-12-16,7:41,Everyone’s A Star!,Rock,0.52,0.75,5,Waking_Up,5
+2025-12-16,7:43,NOT OK,Rock,0.48,0.82,5,Eating,5
+2025-12-16,9:21,Just Give Me a Reason (feat. Nate Ruess),Pop,0.44,0.49,5,Household,5
+2025-12-16,9:58,Everyone’s A Star!,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:05,No. 1 Obsession,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:08,Sick of Myself,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:11,Ghost,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:14,istillfeelthesame,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:18,Wishful Dreaming,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:22,The Rocks,Rock,0.52,0.75,5,Household,5
+2025-12-16,10:25,Caramel,Rock,0.58,0.62,5,Household,5
+2025-12-16,10:29,Sweetdreams,Rock,0.45,0.55,5,Household,5
+2025-12-16,10:51,Streetwise,Rock,0.42,0.58,5,Household,5
+2025-12-16,10:54,Streetwise,Rock,0.42,0.58,5,Household,5
+2025-12-16,10:58,Boyband,Rock,0.52,0.75,5,Household,5
+2025-12-16,16:22,eclipse,Rock,0.4,0.6,5,Commuting,5
+2025-12-16,16:26,No. 1 Obsession,Rock,0.52,0.75,5,Commuting,5
+2025-12-16,16:48,Ghost,Rock,0.52,0.75,5,Commuting,5
+2025-12-16,16:51,Ghost,Rock,0.52,0.75,5,Commuting,5
+2025-12-16,17:13,NOT OK,Rock,0.48,0.82,5,Studying,5
+2025-12-17,8:56,NOT OK,Rock,0.48,0.82,5,Working,7
+2025-12-17,9:00,Ghost,Rock,0.52,0.75,5,Working,7
+2025-12-17,9:04,Evolve,Rock,0.52,0.75,5,Working,7
+2025-12-17,9:08,Chest,Rock,0.44,0.68,4,Working,7
+2025-12-17,9:11,Jawbreaker,Rock,0.52,0.75,5,Working,7
+2025-12-17,9:14,NOBODY'S GIRL,Pop,0.45,0.6,4,Working,7
+2025-12-17,9:17,Telephone Busy,Rock,0.52,0.75,4,Working,7
+2025-12-17,14:57,Sick of Myself,Rock,0.52,0.75,4,Studying,7
+2025-12-17,15:01,Touching Yourself,Indie ,0.45,0.48,4,Studying,7
+2025-12-18,5:10,Everyone’s A Star!,Rock,0.52,0.75,4,Before_Sleep,5
+2025-12-18,5:13,I'll Find You,Rock,0.52,0.75,4,Before_Sleep,5
+2025-12-18,5:18,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,4,Before_Sleep,5
+2025-12-18,5:21,Ghost,Rock,0.52,0.75,4,Before_Sleep,5
+2025-12-18,5:25,Wishful Dreaming,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-18,5:28,istillfeelthesame,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-18,5:49,The Rocks,Rock,0.52,0.75,5,Before_Sleep,5
+2025-12-18,5:58,Caramel,Rock,0.58,0.62,5,Before_Sleep,5
+2025-12-18,6:01,I Wanted To Stay,Rock,0.45,0.55,5,Before_Sleep,5
+2025-12-18,6:16,remember when,Rock,0.32,0.4,5,Before_Sleep,5
+2025-12-18,6:19,remember when,Rock,0.32,0.4,5,Before_Sleep,5
+2025-12-19,3:28,No. 1 Obsession,Rock,0.52,0.75,5,Studying,5
+2025-12-19,4:45,Touching Yourself,Indie,0.45,0.48,5,Studying,5
+2025-12-19,4:48,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Studying,5
+2025-12-19,4:50,Jawbreaker,Rock,0.52,0.75,5,Studying,5
+2025-12-19,4:51,Telephone Busy,Rock,0.52,0.75,4,Studying,5
+2025-12-19,5:04,Start Over,Rock,0.65,0.79,4,Studying,5
+2025-12-19,5:41,Everyone’s A Star!,Rock,0.52,0.75,4,Studying,5
+2025-12-19,5:44,Sick of Myself,Rock,0.52,0.75,4,Studying,5
+2025-12-19,6:21,DADDY DON'T CRY,Rock,0.55,0.88,4,Studying,5
+2025-12-19,12:23,Masterpiece,Pop,0.42,0.68,4,Commuting,7
+2025-12-19,12:28,CAROUSEL,Rock,0.55,0.65,4,Commuting,7
+2025-12-19,12:29,Ankles,Indie,0.38,0.45,4,Commuting,7
+2025-12-19,12:30,Love Me Not (feat. Rex Orange County),R&B,0.62,0.54,4,Commuting,7
+2025-12-19,12:31,Touching Yourself,Indie ,0.45,0.48,4,Commuting,7
+2025-12-19,12:35,Touching Yourself,Indie ,0.45,0.48,4,Commuting,7
+2025-12-19,12:37,Just for Me,Pop,0.72,0.55,6,Commuting,7
+2025-12-20,11:00,Kusapiling,Pop,0.5,0.45,5,Resting,5
+2025-12-21,15:08,Start Over,Rock,0.65,0.79,6,Eating,5

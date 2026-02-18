@@ -1,0 +1,65 @@
+Listening_Date,Time,Track_Name,Genre,Valence,Energy,Mood_Now,Activity,Day_Rating
+2025-12-29,5:22,Everybody Needs Someone,Pop,0.45,0.38,7,Studying,6
+2025-12-29,5:26,Start Over,Rock,0.65,0.79,7,Studying,6
+2025-12-29,5:29,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,7,Studying,6
+2025-12-29,5:31,Tahanan,Indie,0.58,0.42,7,Studying,6
+2025-12-29,5:34,Tahanan,Indie,0.58,0.42,7,Studying,6
+2025-12-29,5:37,Do You Mind,Hip-Hop,0.42,0.55,7,Studying,6
+2025-12-29,5:40,RHYTHM TA,Pop,0.72,0.88,7,Studying,6
+2025-12-29,5:44,KAYA,Pop,0.68,0.82,7,Studying,6
+2025-12-29,5:47,Dun Dun Dance,Pop,0.92,0.85,7,Studying,6
+2025-12-29,5:50,YOUNG LUV,Pop,0.65,0.7,7,Studying,6
+2025-12-29,5:54,Crazy,Pop,0.78,0.95,7,Studying,6
+2025-12-29,5:58,Better,R&B,0.4,0.58,7,Studying,6
+2025-12-29,6:04,MIDDLE OF THE NIGHT,Pop,0.55,0.62,7,Studying,6
+2025-12-29,6:08,It's the Way You Make Me Feel,Pop,0.88,0.85,7,Studying,6
+2025-12-29,6:12,Butterfly,Pop,0.48,0.72,7,Studying,6
+2025-12-29,6:15,Tahanan,Pop,0.58,0.42,7,Studying,6
+2025-12-30,4:50,Kapalastangan,Hip-Hop,0.62,0.68,7,Commuting,5
+2025-12-30,4:55,Multo,Indie,0.55,0.52,7,Commuting,5
+2025-12-30,4:59,Stuck,Indie,0.48,0.58,7,Commuting,5
+2025-12-30,5:03,Sino,Rock,0.38,0.45,7,Commuting,5
+2025-12-30,5:07,Pa-umaga,Hip-Hop,0.65,0.55,7,Commuting,5
+2025-12-30,5:12,Do You Mind,Hip-Hop,0.42,0.55,7,Commuting,5
+2025-12-31,7:07,Everyone’s A Star!,Rock,0.52,0.75,7,Cooking,6
+2025-12-31,7:10,Wishful Dreaming,Rock,0.52,0.75,7,Cooking,6
+2025-12-31,7:13,Chest,Rock,0.44,0.68,7,Cooking,6
+2025-12-31,7:15,KEEP THE PACK,Rock,0.45,0.88,7,Cooking,6
+2025-12-31,7:18,Everyone’s A Star!,Rock,0.52,0.75,6,Cooking,6
+2025-12-31,7:35,Evolve,Rock,0.52,0.75,6,Eating,6
+2025-12-31,7:37,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,6,Eating,6
+2025-12-31,7:40,Under the Skin,Pop,0.35,0.42,6,Eating,6
+2025-12-31,7:42,istillfeelthesame,Rock,0.48,0.7,6,Working,6
+2025-12-31,7:44,Diamonds,Rock,0.32,0.45,6,Working,6
+2025-12-31,7:46,Jawbreaker,Rock,0.52,0.75,6,Working,6
+2025-12-31,7:49,Wishful Dreaming,Rock,0.52,0.75,6,Working,6
+2025-12-31,7:53,I'll Find You,Rock,0.52,0.75,6,Working,6
+2025-12-31,7:56,Start Over,Rock,0.65,0.79,6,Working,6
+2025-12-31,7:58,Sick of Myself,Rock,0.52,0.75,6,Working,6
+2025-12-31,22:54,Chest,Rock,0.44,0.68,7,Studying,6
+2025-12-31,22:59,Sick of Myself,Rock,0.44,0.68,7,Studying,6
+2025-12-31,23:02,I'm Scared I’ll Never Sleep Again,Rock,0.44,0.68,7,Studying,6
+2025-12-31,23:08,Chest,Rock,0.44,0.68,7,Studying,6
+2026-01-01,4:02,THIS IS FOR,Pop,0.65,0.78,7,Resting,6
+2026-01-01,4:08,LET LOVE GO,Pop,0.58,0.65,7,Resting,6
+2026-01-01,4:10,TALK,Pop,0.72,0.82,7,Resting,6
+2026-01-01,4:13,G.O.A.T.,Pop,0.8,0.85,7,Resting,6
+2026-01-02,13:01,OPTIONS,Pop,0.6,0.7,7,Commuting,6
+2026-01-02,13:04,MARS,Pop,0.55,0.62,7,Commuting,6
+2026-01-02,13:07,CAROUSEL,Rock,0.55,0.65,6,Commuting,5
+2026-01-02,13:10,CAROUSEL,Rock,0.55,0.65,6,Commuting,5
+2026-01-02,13:14,CAROUSEL,Rock,0.55,0.65,6,Commuting,5
+2026-01-02,13:17,CAROUSEL,Rock,0.55,0.65,6,Commuting,5
+2026-01-02,13:21,CAROUSEL,Rock,0.55,0.65,6,Commuting,5
+2026-01-02,13:25,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Commuting,5
+2026-01-02,13:29,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Commuting,5
+2026-01-02,13:32,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Commuting,5
+2026-01-02,13:36,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Commuting,5
+2026-01-02,13:40,I'm Scared I’ll Never Sleep Again,Rock,0.52,0.75,5,Commuting,5
+2026-01-03,8:01,Start Over,Rock,0.65,0.79,6,Working,5
+2026-01-03,8:03,Start Over,Rock,0.65,0.79,6,Working,5
+2026-01-03,8:07,Start Over,Rock,0.65,0.79,6,Working,5
+2026-01-03,8:10,Start Over,Rock,0.65,0.79,6,Working,5
+2026-01-03,8:12,Start Over,Rock,0.65,0.79,6,Working,5
+2026-01-04,10:15,Sick of Myself,Rock,0.44,0.68,7,Commuting,5
+2026-01-04,13:42,Start Over,Rock,0.65,0.79,7,Commuting,5
